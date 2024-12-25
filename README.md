@@ -26,7 +26,7 @@ _Demo scene credit: https://github.com/Jamsers/Bistro-Demo-Tweaked_
 
 `Editor Settings -> Interface -> Theme`:
 
-- Base Color: `#252525`
+- Base Color: `#22262B`
 - Accent Color: `#569eff`
 - Contrast: `0.3`
 - Icon Saturation: `2`
